@@ -1,5 +1,6 @@
 ---
 title: Terms and Conditions
+weight: 2
 description: "Pitix Terms and Conditions"
 ---
 
