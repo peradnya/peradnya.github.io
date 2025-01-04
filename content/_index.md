@@ -6,13 +6,13 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  Crafting Cutting-Edge Mobile Apps&nbsp;<br class="sm:hx-block hx-hidden" />and Empowering Developers with Open Source Libraries
+  Crafting Cutting-Edge Mobile Apps&nbsp;<br class="sm:hx-block hx-hidden" />and Open Source Libraries
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Innovating mobile experiences while sharing the tools to build them
+  Innovating mobile experiences while sharing to the communities
 {{< /hextra/hero-subtitle >}}
 </div>
 
