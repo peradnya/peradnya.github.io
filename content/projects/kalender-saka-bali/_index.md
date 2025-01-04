@@ -1,17 +1,12 @@
 ---
 title: Kalender Saka Bali
+description: "Balinese calendar application with advanced features and modern design"
 ---
 
-This is a demo of the theme's documentation layout.
+Balinese calendar application with advanced features and modern design.
 
-## Hello, World!
+## Features
 
-```go {filename="main.go"}
-package main
+## Gallery
 
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+## Links

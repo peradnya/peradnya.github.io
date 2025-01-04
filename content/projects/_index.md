@@ -1,7 +1,6 @@
 ---
 title: Projects
 description: "Mobile applications and open source libraries"
-toc: false
 layout: wide
 ---
 

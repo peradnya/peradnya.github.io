@@ -1,17 +1,12 @@
 ---
 title: Pitix
+description: "Application to search open and free image"
 ---
 
-This is a demo of the theme's documentation layout.
+Application to search open and free image.
 
-## Hello, World!
+## Features
 
-```go {filename="main.go"}
-package main
+## Gallery
 
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+## Links
