@@ -17,3 +17,10 @@ Balinese calendar application with advanced features and modern design.
 {{< /cards >}}
 
 ## Links
+
+Kalender Saka Bali can be downloaded from
+
+{{< cards >}}
+    {{< card icon="apple-appstore" link="https://apps.apple.com/app/kalender-saka-bali/id6661022180" title="Apple AppStore" >}}
+    {{< card icon="google-playstore" link="https://play.google.com/store/apps/details?id=com.peradnya.kalenderbali&pcampaignid=web_share" title="Google PlayStore" >}}
+{{< /cards >}}

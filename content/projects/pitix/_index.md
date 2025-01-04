@@ -17,3 +17,10 @@ Application to search open and free image.
 {{< /cards >}}
 
 ## Links
+
+Pitix can be downloaded from
+
+{{< cards >}}
+    {{< card icon="apple-appstore" link="" title="Apple AppStore" >}}
+    {{< card icon="google-playstore" link="" title="Google PlayStore" >}}
+{{< /cards >}}
