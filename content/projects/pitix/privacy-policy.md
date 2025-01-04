@@ -3,8 +3,6 @@ title: Privacy Policy
 description: "Pitix Privacy Policy"
 ---
 
-**Privacy Policy**
-
 This privacy policy is applicable to the Pitix app (hereinafter referred to as "Application") for mobile devices, which was developed by Peradnya Dinata (hereinafter referred to as "Service Provider") as a an Ad Supported service. This service is provided "AS IS".
 
 **What information does the Application obtain and how is it used?**  

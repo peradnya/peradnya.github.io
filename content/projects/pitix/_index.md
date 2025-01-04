@@ -12,8 +12,8 @@ Application to search open and free image.
 ## Privacy Policy and Terms & Conditions
 
 {{< cards >}}
-    {{< card icon="document" link="/privacy-policy" title="Privacy Policy" >}}
-    {{< card icon="document" link="/tnc" title="Terms & Conditions" >}}
+    {{< card icon="document" link="privacy-policy" title="Privacy Policy" >}}
+    {{< card icon="document" link="tnc" title="Terms & Conditions" >}}
 {{< /cards >}}
 
 ## Links
