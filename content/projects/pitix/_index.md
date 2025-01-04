@@ -9,16 +9,16 @@ Application to search open and free image.
 
 ## Gallery
 
-## Privacy Policy and Terms & Conditions
+## Privacy Policy & Terms and Conditions
 
 {{< cards >}}
     {{< card icon="document" link="privacy-policy" title="Privacy Policy" >}}
-    {{< card icon="document" link="tnc" title="Terms & Conditions" >}}
+    {{< card icon="document" link="tnc" title="Terms and Conditions" >}}
 {{< /cards >}}
 
-## Links
+## Download
 
-Pitix can be downloaded from
+Pitix is available at
 
 {{< cards >}}
     {{< card icon="apple-appstore" link="" title="Apple AppStore" >}}
