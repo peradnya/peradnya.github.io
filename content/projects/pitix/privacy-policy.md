@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy
-weight: 2
 description: "Pitix Privacy Policy"
 ---
 

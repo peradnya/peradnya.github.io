@@ -1,6 +1,5 @@
 ---
 title: Privacy Policy
-weight: 2
 description: "Kalender Saka Bali Privacy Policy"
 ---
 
