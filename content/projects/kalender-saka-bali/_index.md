@@ -5,35 +5,39 @@ description: "Balinese calendar application with advanced features and modern de
 
 Balinese calendar application with advanced features and modern design.
 
+![](/images/kalender-saka-bali-icon.png)
+
 ## Features
 
-The features of the Kalender Saka Bali are as follows:
+The features of the Kalender Saka Bali are:
 
 ### Balinese Calendar
-Users can see Balinese Calendar details such as: Wariga, Pewatekan, Padewasan, Rahinan, and others.
+Users can see Balinese Calendar details such as: *Wariga* (Astonomy), *Pewatekan* (Astrology), *Padewasan* (Auspicious days), *Rahinan* (Indonesian Hindu's holy days), and others.
 
-### Calculating Soulmate & Fortune Score
-Users can calculate the soulmate score (Patemon) of both partners based on the 7 available Tenungs. In addition, users can calculate the fortune score using the 2 available Tenungs (N/B: Fortune chart available for Pal Sri Sedana calculations).
+### Calculate the Soulmate and Fortune Score
+Users can calculate the *patemon* (soulmate) score of both partners using the 7 *tenungs* (calculation methods). In addition, users can calculate the fortune score using the 2 *tenungs* (calculation methods).
 
 ### Auspicious Day Search
-Users can search for Auspicious days (Padewasan) for marriage or other works by entering the desired year and the search criteria.
+Users can search for *padewasan* (auspicious days) for marriage or other works, just by entering the desired year and the search criteria.
 
-### Date Search
-Users can search for Gregorian dates using search criteria based on the Balinese calendar, Rahinan, or User Event list. This feature is very useful for searching for Gregorian dates from the desired Otonan, Piodalan, or Rahinan.
+### Gregorian Date Search
+Users can search for gregorian dates using search criteria based on the Balinese Date, *Rahinan*, or even **User Event** list. This feature is useful for searching for gregorian dates, if we knew when *Otonan*, *Piodalan*, or *Rahinan* is happened.
 
-### Manage, Export, Import Events
-Users can manage events such as otonan or piodalan in the form of "User Events", so that users can receive notifications when the event arrives. In addition, "User Events" can be exported or imported, so that users will not lose events that have been saved when moving smartphones.
+### Manage, Export, and Import Events
+Users can self-manage events such as Otonan or Piodalan in the form of **User Events** and receive notifications for that events when arrives. In addition, **User Events** can be exported or imported, which will make moving the events between smartphones will be more easier.
 
-### Share Documents as PDF
-Users can share detailed information from dates, date search results, and soulmate & fortune calculation score into documents in PDF format and share them to the email, cloud, or messaging applications.
+### Create and Share the Result as PDF
+Users can share detailed information about their search or calculation into PDF documents and share them via email, cloud, or messaging applications.
 
 ### App Widget
-Users can insert "App Widget" on the main display of the smartphone, so that users can see Balinese calendar information and a list of events today in real time.
+Users can insert and show **App Widget** into the Homescreen of the smartphone, so that users can see today's balinese calendar information without opening the Apps.
 
 ### Modern Design, Responsive, and Supports "Offline Mode"
-The Saka Bali Calendar supports: light/dark mode, colored themes, and various screen resolutions (phone, tablet, desktop). In addition, the Saka Bali Calendar supports "Offline Mode", so the application can still be used even without an internet connection.
-
-## Gallery
+The Kalender Saka Bali also supports: 
+* Support light or dark mode, 
+* Support multiple themes
+* Support various devices such as: phone, tablet, desktop. 
+* Offline mode, application can still be used even without an internet connection.
 
 ## Privacy Policy & Terms and Conditions
 
