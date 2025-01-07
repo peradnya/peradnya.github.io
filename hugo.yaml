@@ -42,8 +42,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/favicon.svg
-      dark: images/favicon-dark.svg
+      path: favicon.svg
+      dark: favicon-dark.svg
       link: /
       width: 40
       height: 20
