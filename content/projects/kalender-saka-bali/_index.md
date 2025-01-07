@@ -5,7 +5,7 @@ description: "Balinese calendar application with advanced features and modern de
 
 Balinese calendar application with advanced features and modern design.
 
-![](/images/kalender-saka-bali-icon.jpg)
+![](/images/kalender-saka-bali-icon.jpeg)
 
 ## Features
 
@@ -49,12 +49,12 @@ The Kalender Saka Bali also supports:
 ## Gallery
 
 {{< cards >}}
-    {{< card image="/images/kalender-saka-bali-img-01.jpg" >}}
-    {{< card image="/images/kalender-saka-bali-img-02.jpg" >}}
-    {{< card image="/images/kalender-saka-bali-img-03.jpg" >}}
-    {{< card image="/images/kalender-saka-bali-img-04.jpg" >}}
-    {{< card image="/images/kalender-saka-bali-img-05.jpg" >}}
-    {{< card image="/images/kalender-saka-bali-img-06.jpg" >}}
+    {{< card image="/images/kalender-saka-bali-img-01.jpeg" >}}
+    {{< card image="/images/kalender-saka-bali-img-02.jpeg" >}}
+    {{< card image="/images/kalender-saka-bali-img-03.jpeg" >}}
+    {{< card image="/images/kalender-saka-bali-img-04.jpeg" >}}
+    {{< card image="/images/kalender-saka-bali-img-05.jpeg" >}}
+    {{< card image="/images/kalender-saka-bali-img-06.jpeg" >}}
 {{< /cards >}}
 
 ## Download
