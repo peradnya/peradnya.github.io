@@ -5,11 +5,11 @@ description: "Balinese calendar application with advanced features and modern de
 
 Balinese calendar application with advanced features and modern design.
 
-![](/images/kalender-saka-bali-icon.png)
+![](/images/kalender-saka-bali-icon.jpg)
 
 ## Features
 
-The features of the Kalender Saka Bali are:
+Kalender Saka Bali features are:
 
 ### Balinese Calendar
 Users can see Balinese Calendar details such as: *Wariga* (Astonomy), *Pewatekan* (Astrology), *Padewasan* (Auspicious days), *Rahinan* (Indonesian Hindu's holy days), and others.
@@ -49,17 +49,17 @@ The Kalender Saka Bali also supports:
 ## Gallery
 
 {{< cards >}}
-    {{< card image="/images/kalender-saka-bali-img-01.png" >}}
-    {{< card image="/images/kalender-saka-bali-img-02.png" >}}
-    {{< card image="/images/kalender-saka-bali-img-03.png" >}}
-    {{< card image="/images/kalender-saka-bali-img-04.png" >}}
-    {{< card image="/images/kalender-saka-bali-img-05.png" >}}
-    {{< card image="/images/kalender-saka-bali-img-06.png" >}}
+    {{< card image="/images/kalender-saka-bali-img-01.jpg" >}}
+    {{< card image="/images/kalender-saka-bali-img-02.jpg" >}}
+    {{< card image="/images/kalender-saka-bali-img-03.jpg" >}}
+    {{< card image="/images/kalender-saka-bali-img-04.jpg" >}}
+    {{< card image="/images/kalender-saka-bali-img-05.jpg" >}}
+    {{< card image="/images/kalender-saka-bali-img-06.jpg" >}}
 {{< /cards >}}
 
 ## Download
 
-Kalender Saka Bali is available at
+Kalender Saka Bali is available at:
 
 {{< cards >}}
     {{< card icon="apple-appstore" link="https://apps.apple.com/app/kalender-saka-bali/id6661022180" title="Apple AppStore" >}}
