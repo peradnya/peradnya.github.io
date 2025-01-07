@@ -40,7 +40,13 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: images/favicon.svg
+      dark: images/favicon-dark.svg
+      link: /
+      width: 40
+      height: 20
 
   footer:
     displayCopyright: true

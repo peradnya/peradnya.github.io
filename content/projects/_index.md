@@ -14,6 +14,7 @@ Mobile applications and open source libraries
         link="kalender-saka-bali"
         title="Kalender Saka Bali"
         subtitle="Balinese calendar application with advanced features and modern design"
+        image="/images/kalender-saka-bali-icon.jpeg"
     >}}
 
     {{< card
