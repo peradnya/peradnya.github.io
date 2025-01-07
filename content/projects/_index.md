@@ -21,6 +21,7 @@ Mobile applications and open source libraries
         link="pitix"
         title="Pitix"
         subtitle="Application to search open and free image"
+        image="/images/pitix-icon.jpeg"
     >}}
 
 {{< /cards >}}

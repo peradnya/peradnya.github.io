@@ -39,13 +39,6 @@ The Kalender Saka Bali also supports:
 * Support various devices such as: phone, tablet, desktop. 
 * Offline mode, application can still be used even without an internet connection.
 
-## Privacy Policy & Terms and Conditions
-
-{{< cards >}}
-    {{< card icon="document" link="privacy-policy" title="Privacy Policy" >}}
-    {{< card icon="document" link="tnc" title="Terms and Conditions" >}}
-{{< /cards >}}
-
 ## Gallery
 
 {{< cards >}}
@@ -64,4 +57,11 @@ Kalender Saka Bali is available at:
 {{< cards >}}
     {{< card icon="apple-appstore" link="https://apps.apple.com/app/kalender-saka-bali/id6661022180" title="Apple AppStore" >}}
     {{< card icon="google-playstore" link="https://play.google.com/store/apps/details?id=com.peradnya.kalenderbali&pcampaignid=web_share" title="Google PlayStore" >}}
+{{< /cards >}}
+
+## Privacy Policy & Terms and Conditions
+
+{{< cards >}}
+    {{< card icon="document" link="privacy-policy" title="Privacy Policy" >}}
+    {{< card icon="document" link="tnc" title="Terms and Conditions" >}}
 {{< /cards >}}
