@@ -46,6 +46,17 @@ The Kalender Saka Bali also supports:
     {{< card icon="document" link="tnc" title="Terms and Conditions" >}}
 {{< /cards >}}
 
+## Gallery
+
+{{< cards >}}
+    {{< card images="/images/kalender-saka-bali-img-01.png" >}}
+    {{< card images="/images/kalender-saka-bali-img-02.png" >}}
+    {{< card images="/images/kalender-saka-bali-img-03.png" >}}
+    {{< card images="/images/kalender-saka-bali-img-04.png" >}}
+    {{< card images="/images/kalender-saka-bali-img-05.png" >}}
+    {{< card images="/images/kalender-saka-bali-img-06.png" >}}
+{{< /cards >}}
+
 ## Download
 
 Kalender Saka Bali is available at
