@@ -9,8 +9,6 @@ Balinese calendar application with advanced features and modern design.
 
 ## Features
 
-Kalender Saka Bali features are:
-
 ### Balinese Calendar
 Users can see Balinese Calendar details such as: *Wariga* (Astonomy), *Pewatekan* (Astrology), *Padewasan* (Auspicious days), *Rahinan* (Indonesian Hindu's holy days), and others.
 
@@ -51,8 +49,6 @@ The Kalender Saka Bali also supports:
 {{< /cards >}}
 
 ## Download
-
-Kalender Saka Bali is available at:
 
 {{< cards >}}
     {{< card icon="apple-appstore" link="https://apps.apple.com/app/kalender-saka-bali/id6661022180" title="Apple AppStore" >}}

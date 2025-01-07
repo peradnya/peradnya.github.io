@@ -9,8 +9,6 @@ Application to search open and free image.
 
 ## Features
 
-Pitix features are:
-
 ### Image Search
 Quickly search for high-quality, open, and free images from multiple sources. Users can enter keywords to find images related to any topic, all without worrying about licensing restrictions.
 
@@ -31,8 +29,6 @@ Effortlessly share images with friends, family, or on social media. The app incl
 Coming soon
 
 ## Download
-
-Pitix is available at:
 
 {{< cards >}}
     {{< card icon="apple-appstore" link="" title="Apple AppStore" >}}
