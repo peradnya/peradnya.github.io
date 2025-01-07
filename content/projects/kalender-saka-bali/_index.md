@@ -49,12 +49,12 @@ The Kalender Saka Bali also supports:
 ## Gallery
 
 {{< cards >}}
-    {{< card images="/images/kalender-saka-bali-img-01.png" >}}
-    {{< card images="/images/kalender-saka-bali-img-02.png" >}}
-    {{< card images="/images/kalender-saka-bali-img-03.png" >}}
-    {{< card images="/images/kalender-saka-bali-img-04.png" >}}
-    {{< card images="/images/kalender-saka-bali-img-05.png" >}}
-    {{< card images="/images/kalender-saka-bali-img-06.png" >}}
+    {{< card image="/images/kalender-saka-bali-img-01.png" >}}
+    {{< card image="/images/kalender-saka-bali-img-02.png" >}}
+    {{< card image="/images/kalender-saka-bali-img-03.png" >}}
+    {{< card image="/images/kalender-saka-bali-img-04.png" >}}
+    {{< card image="/images/kalender-saka-bali-img-05.png" >}}
+    {{< card image="/images/kalender-saka-bali-img-06.png" >}}
 {{< /cards >}}
 
 ## Download
